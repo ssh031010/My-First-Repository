@@ -1,3 +1,3 @@
 # My-First-Repository
-This is my firsst repository!
+This is my first repository!
 C++ / Java Main
